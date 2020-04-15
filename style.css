@@ -1,0 +1,10 @@
+#name{
+    width: 100px;
+    margin-bottom: 2px;
+    display: flex;
+}
+
+#sub_button{
+    width: 100px;
+    border-radius: 15px;
+}
